@@ -474,6 +474,7 @@
 				D4AC818D18D6379E00FE186B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D4AC818E18D6379E00FE186B /* Build configuration list for PBXNativeTarget "StudienprojektTests" */ = {
 			isa = XCConfigurationList;
@@ -482,6 +483,7 @@
 				D4AC819018D6379E00FE186B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
